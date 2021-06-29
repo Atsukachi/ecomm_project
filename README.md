@@ -1,2 +1,3 @@
 # ecomm_project
-Tugas akhir semester mata kuliah Sistem E-Commerce
+Tugas akhir semester 
+Mata kuliah Sistem E-Commerce
